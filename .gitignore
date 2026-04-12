@@ -118,7 +118,6 @@ yt-dlp.zip
 # Text Editor / IDE
 .idea
 *.iml
-.vscode
 *.sublime-*
 *.code-workspace
 *.swp
@@ -132,3 +131,5 @@ yt-dlp-plugins
 
 # Packages
 yt_dlp_ejs/
+config.bat
+node_modules
